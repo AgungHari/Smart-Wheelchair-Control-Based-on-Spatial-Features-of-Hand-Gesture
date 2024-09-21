@@ -10,6 +10,22 @@
 watch here : https://youtu.be/f_hjy_4UHfs?feature=shared
 
 ## Installation
+Please use seperate folder for training and control. venv setup for training
+
+```bash
+  python --version
+  python -m venv nama_venv
+  nama_venv\Scripts\activate
+  pip install opencv-python
+  pip install mediapipe
+  pip install numpy
+  pip install matplotlib
+  pip install tensorflow
+```
+The training file include process of collecting dataset. Please modify for each class image data folder. Example :
+```bash
+  CreateDataSet(0, "Berhenti", DirektoriDataSet)
+```
 Actually, you need an ESP32 and the wheelchair to run it.
 
 ```bash
@@ -33,4 +49,3 @@ Actually, you need an ESP32 and the wheelchair to run it.
 
 - [@AgungHari](https://github.com/AgungHari)
 - [@Rasyeedah](https://www.linkedin.com/in/rasyeedah-mohd-othman/)
-
