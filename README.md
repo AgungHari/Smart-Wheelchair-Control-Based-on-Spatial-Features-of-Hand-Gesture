@@ -7,6 +7,8 @@ Collaborating with Rasyeedah binti Mohd Othman, this project involves training a
 
 ![syeeda](https://github.com/user-attachments/assets/8471363c-1c57-4119-8833-e522a40c736b)
 
+watch here : https://youtu.be/f_hjy_4UHfs?feature=shared
+
 ## Installation
 Actually, you need an ESP32 and the wheelchair to run it.
 
