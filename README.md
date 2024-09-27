@@ -7,7 +7,7 @@
 
 ![syeeda](https://github.com/user-attachments/assets/8471363c-1c57-4119-8833-e522a40c736b)
 
-watch here : https://youtu.be/f_hjy_4UHfs?feature=shared
+<img alt="Static Badge" src="https://img.shields.io/badge/Youtube-red?style=flat-square&logo=youtube&link=https%3A%2F%2Fyoutu.be%2Ff_hjy_4UHfs%3Ffeature%3Dshared">
 
 ## 🔨 Installation
 
