@@ -11,6 +11,8 @@
 ![IPyKernel version](https://img.shields.io/badge/IPyKernel-v6.29.4-yellow)
 ![License](https://img.shields.io/badge/License-MIT-darkgray)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 Collaborating with Rasyeedah binti Mohd Othman, this project involves training a CNN model with a dataset of hand movement pose. Real time predicted pose will then used to control wheelchair movement.
 
 ## Project Result
