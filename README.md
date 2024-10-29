@@ -1,25 +1,27 @@
+[![universal-personal-banner1](fileagung2.png)](https://www.agungg.com/)
 
 # Smart Wheelchair Control Based on Spatial Features of Hand Gesture.
 
-🚀Collaborating with Rasyeedah binti Mohd Othman, this project involves training a CNN model with a dataset of hand movement pose. Real time predicted pose will then used to control wheelchair movement.
+![Scikit-learn version](https://img.shields.io/badge/scikitlearn-v1.5.1-black)
+![Keras version](https://img.shields.io/badge/Keras-v3.5.0-darkblue)
+![matplotlib version](https://img.shields.io/badge/matplotlib-v3.9.2-darkred)
+![MediaPipe version](https://img.shields.io/badge/MediaPipe-v0.10.14-pink)
+![Tensorflow version](https://img.shields.io/badge/Tensorflow-v2.10.1-orange)
+![OpenCV version](https://img.shields.io/badge/OpenCV-v4.9.0.80-darkgreen)
+![IPyKernel version](https://img.shields.io/badge/IPyKernel-v6.29.4-yellow)
+![License](https://img.shields.io/badge/License-MIT-darkgray)
 
-## 🎬 Demo
+Collaborating with Rasyeedah binti Mohd Othman, this project involves training a CNN model with a dataset of hand movement pose. Real time predicted pose will then used to control wheelchair movement.
 
-![syeeda](https://github.com/user-attachments/assets/8471363c-1c57-4119-8833-e522a40c736b)
+## Project Result
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Youtube-red?style=flat-square&logo=youtube&link=https%3A%2F%2Fyoutu.be%2Ff_hjy_4UHfs%3Ffeature%3Dshared">
+[![syeeda](https://github.com/user-attachments/assets/8471363c-1c57-4119-8833-e522a40c736b)](https://youtu.be/f_hjy_4UHfs)
 
-## 🔨 Installation
+[![YouTube](https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube)](https://youtu.be/f_hjy_4UHfs)
+
+## Installation
 
 PyPi version
-
-![Scikit-learn version](https://img.shields.io/badge/scikitlearn-v1.5.1-black)
-![Keras version](https://img.shields.io/badge/Keras-v3.5.0-purple)
-![matplotlib version](https://img.shields.io/badge/matplotlib-v3.9.2-red)
-![MediaPipe version](https://img.shields.io/badge/MediaPipe-v0.10.14-blue)
-![Tensorflow version](https://img.shields.io/badge/Tensorflow-v2.10.1-orange)
-![OpenCV version](https://img.shields.io/badge/OpenCV-v4.9.0.80-green)
-![IPyKernel version](https://img.shields.io/badge/IPyKernel-v6.29.4-yellow)
 
 Please use seperate folder for training and control. venv setup for training
 
@@ -47,13 +49,14 @@ Actually, you need an ESP32 and the wheelchair to run it.
   pip install opencv-python
 ```
     
-## 🍿 Features
+## Features
 
 - Optimized hand gestures for controlling the wheelchair.
 - A lightweight and user-friendly system.
 
-![LOGO](https://github.com/user-attachments/assets/95a6c264-e6cd-4ea9-b378-208966d44ba6)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/95a6c264-e6cd-4ea9-b378-208966d44ba6" alt="LOGO" width="300">
+</p>
 
 
 ## Authors
