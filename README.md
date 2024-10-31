@@ -1,4 +1,4 @@
-[![universal-personal-banner1](fileagung2.png)](https://www.agungg.com/)
+[![banner3](banner3.png)](https://www.agungg.com/)
 
 # Smart Wheelchair Control Based on Spatial Features of Hand Gesture.
 
