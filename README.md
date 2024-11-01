@@ -17,13 +17,24 @@ Collaborating with Rasyeedah binti Mohd Othman, this project involves training a
 
 ## Project Result
 
-[![syeeda](https://github.com/user-attachments/assets/8471363c-1c57-4119-8833-e522a40c736b)](https://youtu.be/f_hjy_4UHfs)
+The testing was conducted at Tower 2 ITS, using human gesture samples shown in the video on the left. In the video on the right, testing was performed to evaluate the success of class invocation for each gesture.
 
-[![YouTube](https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube)](https://youtu.be/f_hjy_4UHfs)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8471363c-1c57-4119-8833-e522a40c736b" alt="agungyolo" width="300"/>
+  <img src="https://github.com/user-attachments/assets/c2dc07a4-b8cc-411c-b2eb-a193cfacf92f" alt="agungyolo" width="300" />
+</div>
+
+[![YouTube](https://img.shields.io/badge/ComingSoon-black?style=flat-square&logo=youtube)](https://youtu.be/f_hjy_4UHfs)
+
+Based on the test results, the following conclusions can be drawn:
+
+![Test](https://img.shields.io/badge/Test_Success_Rate-90_above-green)
+![FPS](https://img.shields.io/badge/FPS_Diff-6.386fps-red)
+
+- The wheelchair can be controlled using the user’s hand gestures, captured by a camera mounted on the electric wheelchair. During testing, an average frame rate (FPS) of 6.3866 was recorded over 30 trials, with the highest FPS reaching 6.93 and the lowest at 5.83. This data demonstrates that the system operates consistently on the device used. 
+- Further testing was conducted to evaluate the model's ability to detect and predict different gesture classes from a new user's pose. For the "TanganKanan" class, a success rate of 94\% was achieved with a 6% failure rate, while the "TanganKiri" class had a 95% success rate and a 5% failure rate. The "Berhenti" class showed a 96% success rate with a 4% failure rate. For the "Maju" class, the system achieved a 92% success rate and an 8% failure rate, while the "Mundur" class had a success rate of 93% and a failure rate of 7%.
 
 ## Installation
-
-PyPi version
 
 Please use seperate folder for training and control. venv setup for training
 
@@ -50,7 +61,26 @@ Actually, you need an ESP32 and the wheelchair to run it.
   pip install mediapipe
   pip install opencv-python
 ```
-    
+## Contributing
+
+I am open to contributions and collaboration. If you would like to contribute, please create a pull request or contact me directly!
+- Fork this repo.
+- Create a new feature branch:
+
+```bash
+git checkout -b new-feature
+```
+
+- Commit your changes.
+```bash
+git commit -m "ver..."
+```
+
+- Push to the branch:
+```bash
+git push origin new-feature
+```
+
 ## Features
 
 - Optimized hand gestures for controlling the wheelchair.
